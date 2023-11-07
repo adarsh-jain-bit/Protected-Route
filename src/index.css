@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-color-self {
+  border: 1px solid #32ff7e;
+}
+.bg-color-self {
+  background: #32ff7e;
+}
+/* input[type="password"] {
+  -webkit-text-security: square !important;
+} */
